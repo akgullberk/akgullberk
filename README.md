@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native, Java Android**
+- 🌱 I’m currently learning **React Native, Java Android,Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
