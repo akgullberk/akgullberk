@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native, Java Android,Kotlin**
+- 🌱 I’m currently learning **React Native, Android,Kotlin,Jetpack Compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
