@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Berk Akgül</h1>
 <h3 align="center">I'm a Student at Software Engineering</h3>
 
+<p align="center">
+  🌐 <a href="https://akgullberk.github.io/" target="_blank">
+    Personal Website
+  </a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akgullberk&label=Profile%20views&color=0e75b6&style=flat" alt="akgullberk" /> </p>
 
 - 🌱 I'm currently developing mobile apps using React Native, Flutter, and Kotlin with Jetpack Compose.
