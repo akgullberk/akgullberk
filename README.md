@@ -39,8 +39,13 @@
 🛋️ Software & Other Tools
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akgullberk&show_icons=true&locale=en&layout=compact" alt="akgullberk" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akgullberk&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akgullberk&show_icons=true&locale=en" alt="akgullberk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgullberk&" alt="akgullberk" /></p>
+
+![Berk's GitHub stats](https://github-readme-stats.vercel.app/api?username=akgullberk&show_icons=true)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akgullberk)
+
