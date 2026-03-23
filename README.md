@@ -41,21 +41,17 @@
 
 <div align="center">
   
-  <a href="https://github.com/akgullberk">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akgullberk&layout=donut&theme=midnight-purple&hide_border=true"
-      alt="Top Languages"
-    />
-  </a>
   
-  <br/>
-  
-  <a href="https://github.com/akgullberk">
-    <img
-      src="https://streak-stats.demolab.com?user=akgullberk&theme=midnight-purple&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
+
+  <h2 align="center">My GitHub Stats 📊</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akgullberk&show_icons=true&theme=midnight-purple&hide_border=true" width="450" height="180" alt="Berk's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgullberk&layout=compact&theme=midnight-purple&hide_border=true&hide=python" height="180" alt="Berk's Top Langs">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akgullberk&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+</p>
 
 </div>
 
